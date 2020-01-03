@@ -1,0 +1,36 @@
+[submodule "official/stm32f1xx-hal"]
+	path = official/stm32f1xx-hal
+	url = https://github.com/stm32-rs/stm32f1xx-hal
+[submodule "official/stm32f0xx-hal"]
+	path = official/stm32f0xx-hal
+	url = https://github.com/stm32-rs/stm32f0xx-hal
+[submodule "official/stm32f3xx-hal"]
+	path = official/stm32f3xx-hal
+	url = https://github.com/stm32-rs/stm32f3xx-hal
+[submodule "official/stm32f4xx-hal"]
+	path = official/stm32f4xx-hal
+	url = https://github.com/stm32-rs/stm32f4xx-hal
+[submodule "official/stm32f7xx-hal"]
+	path = official/stm32f7xx-hal
+	url = https://github.com/stm32-rs/stm32f7xx-hal
+[submodule "official/stm32h7xx-hal"]
+	path = official/stm32h7xx-hal
+	url = https://github.com/stm32-rs/stm32h7xx-hal
+[submodule "official/stm32l0xx-hal"]
+	path = official/stm32l0xx-hal
+	url = https://github.com/stm32-rs/stm32l0xx-hal
+[submodule "official/stm32g0xx-hal"]
+	path = official/stm32g0xx-hal
+	url = https://github.com/stm32-rs/stm32g0xx-hal
+[submodule "official/stm32g4xx-hal"]
+	path = official/stm32g4xx-hal
+	url = https://github.com/stm32-rs/stm32g4xx-hal
+[submodule "official/stm32l4xx-hal"]
+	path = official/stm32l4xx-hal
+	url = https://github.com/stm32-rs/stm32l4xx-hal
+[submodule "official/stm32l1xx-hal"]
+	path = official/stm32l1xx-hal
+	url = https://github.com/stm32-rs/stm32l1xx-hal
+[submodule "unofficial/alt-stm32f30x-hal"]
+	path = unofficial/alt-stm32f30x-hal
+	url = https://github.com/copterust/alt-stm32f30x-hal
